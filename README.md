@@ -20,6 +20,6 @@ Reactjs / React icons / chackra ui
 ## Features
 
 - Add todo
-- DEleted todo
+- Deleted todo
 ## Screenshots
 [![Todo-Application.png](https://i.postimg.cc/bJzGKHYD/Todo-Application.png)](https://postimg.cc/5HRNzzCb)
