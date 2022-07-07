@@ -22,4 +22,4 @@ Reactjs / React icons / chackra ui
 - Add todo
 - DEleted todo
 ## Screenshots
-[![Character-Manager.png](https://i.postimg.cc/nhtt5WJw/Character-Manager.png)](https://postimg.cc/jLv9nZCz)
+[![Todo-Application.png](https://i.postimg.cc/bJzGKHYD/Todo-Application.png)](https://postimg.cc/5HRNzzCb)
